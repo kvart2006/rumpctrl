@@ -1,0 +1,14 @@
+_pipe	pipe
+_fdiscard	fdiscard
+_ftruncate	ftruncate
+_kill	kill
+_lseek	lseek
+_mmap	mmap
+_pollts	pollts
+_pread	pread
+_pselect	pselect
+_posix_fallocate	posix_fallocate
+_pwrite	pwrite
+_read	read
+_readlink	readlink
+_select	select
